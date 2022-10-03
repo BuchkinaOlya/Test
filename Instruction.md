@@ -41,6 +41,7 @@
 
 #### 7. Спрячьте узел в отверстии бусины
 
+
 В результате выполнения этих действий у вас получится такой браслет
 
 ![This is an image](https://github.com/BuchkinaOlya/Test/blob/main/IMG_0012.JPG)
